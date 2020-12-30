@@ -1,6 +1,6 @@
 import React from 'react'
 import { Formik, Field, Form } from 'formik'
-import './App.css'
+import './app.css'
 
 const dataForSurvey = [
   {
